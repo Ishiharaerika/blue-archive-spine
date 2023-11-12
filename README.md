@@ -1,6 +1,8 @@
 # blue-archive-spine
 For viewing Blue Archive Spines.
 
+# Moved to [https://github.com/respectZ/blue-archive-viewer](https://github.com/respectZ/blue-archive-viewer)
+
 Have a look at [this branch](https://github.com/respectZ/blue-archive-spine/tree/resourceless) for resourceless.
 
 # Requirements
